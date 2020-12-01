@@ -45,5 +45,4 @@ http://localhost:8088/save-user
 ### 文档
 ```
 https://github.com/yudiandemingzi/spring-boot-sharding-sphere
-https://www.cnblogs.com/qdhxhz/p/11673493.html
 ```
